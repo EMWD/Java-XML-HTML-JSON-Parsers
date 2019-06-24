@@ -1,0 +1,16 @@
+<exchange>
+    <currency>
+        <r030>36</r030>
+        <txt>Австралійський долар</txt>
+        <rate>18.213155</rate>
+        <cc>AUD</cc>
+        <exchangedate>25.06.2019</exchangedate>
+    </currency>
+    <currency>
+        <r030>124</r030>
+        <txt>Канадський долар</txt>
+        <rate>19.855126</rate>
+        <cc>CAD</cc>
+        <exchangedate>25.06.2019</exchangedate>
+    </currency>
+</exchange>
